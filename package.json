@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jorge-villalba/prueba-desarrollador-web-enersinc#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
@@ -26,5 +27,4 @@
   "devDependencies": {
     "nodemon": "^2.0.19"
   }
-
 }
